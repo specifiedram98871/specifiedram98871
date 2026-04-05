@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C96F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%8D;Always+Learning+New+Things+%F0%9F%93%9A;Building+Things+That+Matter+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C96F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Enthusiast+%F0%9F%8C%8D;Always+Learning+New+Things+%F0%9F%93%9A;Building+Things+That+Matter+%E2%9C%A8;Data+Science+Enthusiast+%F0%9F%9A%8C)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,18 +17,18 @@
 ## 🙋‍♂️ About Me
 
 ```yaml
-name       : Ram                        # 👈 Update your full name
+name       : Ram Kumar Timalsina                        
 username   : specifiedram98871
 location   : Kathmandu, Nepal 🇳🇵
-role       : Full Stack Developer       # 👈 Update your role
+role       : Full Stack Developer || AI Enthusiast || Data Science Enthusiast || QA Engineer      
 status     : Open to opportunities
 ```
 
-- 🔭 Currently working on **[Your Project Name]** — *brief description here*
-- 🌱 Learning **[Technology / Framework you're exploring]**
+- 🔭 Currently working on **[ShopEase-7thsem Project]** — *Applying cypress automation*
+- 🌱 Learning **[Data Science/Selenium and Cypress Automation]**
 - 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **Web Development, APIs, or anything tech!**
-- 📫 Reach me at **your.email@example.com**
+- 💬 Ask me about **Web Development, APIs, Testing or anything tech!**
+- 📫 Reach me at **ramkm98871@gmail.com**
 - ⚡ Fun fact: *I debug code faster with coffee ☕*
 
 ---
@@ -48,13 +48,15 @@ status     : Open to opportunities
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%23C1702A.svg?style=for-the-badge&logo=cypress-io&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%23E04F00.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### 🗄️ Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS - Exploring](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -64,7 +66,6 @@ status     : Open to opportunities
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-> 💡 *Remove badges you don't use and add ones you do — [Browse all badges](https://ileriayo.github.io/markdown-badges/)*
 
 ---
 
@@ -95,11 +96,8 @@ status     : Open to opportunities
 
 | 🔥 Project | 📝 Description | 🛠 Stack | 🔗 Link |
 |---|---|---|---|
-| **Project Alpha** | A brief description of what this project does | `React` `Node.js` `MongoDB` | [View →](https://github.com/specifiedram98871) |
-| **Project Beta** | A brief description of what this project does | `Next.js` `TypeScript` `PostgreSQL` | [View →](https://github.com/specifiedram98871) |
-| **Project Gamma** | A brief description of what this project does | `Python` `FastAPI` `Docker` | [View →](https://github.com/specifiedram98871) |
+| **7th Semester Project** | ShopEase is a MERN stack e-commerce project. Includes admin panel, charts, and more. Khalti integrtation | `React` `Node.js` `MongoDB` | [View →](https://github.com/specifiedram98871/7thsemesterproject.git)|
 
-> 📌 *Pin your best repos directly on your profile too!*
 
 ---
 
@@ -107,11 +105,10 @@ status     : Open to opportunities
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/your-instagram)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-timalsina-1117161b7/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/specifiedram/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://next-portfolio-ten-sooty.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramkm98871@gmail.com)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/your-devto)
 
 </div>
@@ -122,8 +119,8 @@ status     : Open to opportunities
 
 - 🎮 I enjoy gaming in my downtime
 - 🎵 I code better with lo-fi music playing
-- 📚 Currently reading: *[Your current book]*
-- 🌍 Dream destination: *[Somewhere on your list]*
+- 📚 Currently reading: Psychology Of Money
+- 🌍 Dream destination: Deutschland || America || Australia || Switzerland
 - 🧩 Love solving DSA puzzles on LeetCode
 - ☕ Coffee is my primary debugging tool
 
